@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NoSleepBTW
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📊 I’m passionate about Data Analytics and turning data into actionable insights.
+- 🌱 Currently expanding my skills in SQL, Python, and Power BI.
+- 🔍 Fascinated by uncovering patterns and trends to drive business decisions.
+- 💡 Looking to collaborate on data-driven projects and innovative analytics solutions.
 
 <!---
 NoSleepBTW/NoSleepBTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
