@@ -1,33 +1,34 @@
-👋 Hi, I’m @NoSleepBTW
-Data Analyst by day | Curious Learner by night
+# 👋 Hi, I’m @NoSleepBTW
 
-I spend my work hours deep in Python, SQL, and Power BI, turning messy data into things that make sense for business. Lately, though, I’ve realized I want to understand more than just the "data" layer—I want to know how the machine actually works.
+### **About Me**
 
-I’m definitely not a systems expert or a Linux pro yet. I’m currently in that "breaking things until I learn how to fix them" phase, and I'm loving every bit of it.
-🛠️ What I'm Tinkering With
+I am a professional **Data Analyst** by day, but a curious student of systems engineering by choice. My main goal for 2026 is to move beyond high-level data engineering and understand how computers actually work at a fundamental level. I am definitely not an expert yet—I am very much in the "learning by breaking things" phase.
 
-    Mission Control: This is my main project right now. It’s a set of scripts I’m writing to manage my Arch Linux/Hyprland environment. I’m trying to move away from pre-built frameworks like HyDE so I can learn to build my own "Mac-like" experience from scratch—even if I have to Google everything twice.
+---
 
-    Back to Basics: I’m teaching myself C++ using the C++ Primer. To keep myself honest, I’m doing this on a Raspberry Pi 5 with nothing but Neovim to force me to work with as little as possible.
+### 📊 **Professional Toolkit**
 
-    Data Work: On the professional side, I’m currently building a Revenue Operations & Fraud Detection dashboard using Streamlit and PostgreSQL.
+* **Data Stack:** I work primarily with **Python**, **SQL**, and **Power BI**.
+* **Expertise:** I specialize in data structures, algorithms, statistics, and turning messy datasets into business insights.
+* **Current Project:** I'm currently refining a revenue operations and fraud detection dashboard using **Streamlit** and **PostgreSQL**.
 
-📊 My Toolkit
+### 🛠️ **Learning & Tinkering**
 
-    The "Pro" Stuff: Python (Pandas/Polars), SQL, Power BI, DAX, and Data Modeling.
+I am currently pushing myself to learn lower-level systems and "minimalist" development:
 
-    The "Learning" Stuff: Bash scripting (for Mission Control), C++, and low-level Linux customization.
+* **Project Mission Control:** I am building a custom, zero-dependency management system for my **Arch Linux** and **Hyprland** setup.
+* **Current Progress:** The project is **60% complete**, with the core wallpaper and color systems operational.
+* **C++ Foundations:** I am working through the *C++ Primer* to understand memory and logic.
+* **Minimalist Environment:** To stay focused and force resource constraints, I am learning on a **Raspberry Pi 5** using only **Neovim**.
+* **Home Lab:** I manage a home NAS on a Raspberry Pi, running services like **Pi-hole**, **Unbound**, and **Docker**.
 
-🕹️ When the Screen Goes Dark
+### 🕹️ **Off-Duty Interests**
 
-When I’m not debugging a volume script or an ELT pipeline, I’m usually:
+* **Gaming:** Currently running through **Baldur's Gate 3** and exploring the UI of **Metaphor: ReFantazio**.
+* **Customization:** I enjoy tweaking my Linux environment to get a seamless, "Mac-like" feel.
 
-    Running a campaign in Baldur's Gate 3.
+---
 
-    Getting lost in the UI of Metaphor: ReFantazio.
+### 🤝 **Let’s Connect**
 
-    Managing my home lab (a Pi-based NAS running Pi-hole and Docker).
-
-🤝 Let's Connect!
-
-If you’re a fellow data person, someone else struggling through their first C++ pointers, or just someone who thinks tiling window managers are cool, I’d love to chat. I’m always looking to learn from others and share the (many) mistakes I make along the way.
+I’m always looking to chat with fellow data folks, people learning C++, or anyone who enjoys tinkering with Linux. If you have pointers or just want to share what you’re learning, feel free to reach out!
