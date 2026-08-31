@@ -27,5 +27,4 @@ C++ · Systems Programming
 
 ### Outside Work
 
-Roller skating, pickleball, and the gym. Also the person who runs their own
-DNS resolver at home just to see how it works.
+Roller skating, pickleball, and the gym.
